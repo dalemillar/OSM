@@ -1,0 +1,8 @@
+https://www.ox.ac.uk/about/facts-and-figures/student-numbers?wssl=1 - Student Numbers
+https://www.gov.uk/government/publications/national-public-transport-access-node-schema - naptan
+http://learnosm.org/en/ - OSM Tutorial
+http://experienceoxfordshire.org/Oxford-Information-Ticket-Sales/details/?dms=3&venue=2912041 - Oxford Tourist Information-Ticket-Sales/details/
+http://www.regular-expressions.info/tutorial.html - regex Tutorial
+http://www.w3schools.com/sql/sql_join.asp - sql joins
+https://wiki.openstreetmap.org/wiki/Main_Page - OSM wiki
+

@@ -1,0 +1,4 @@
+Map Extract
+https://mapzen.com/data/metro-extracts/your-extracts/b4c276e5c44c
+
+I chose the English university city of Oxford for my study - I know it well and was really interested to study how OSM had captured the data. It's a quintesentially English city and I thought it would also be fun to see how it contrasted with some of the US cities discussed in the course such as Chicago and Charlotte. It also became clear during the study that there are some pretty gigantic holes in the data and this is something that I'd like to contribute to fixing moving forward.
